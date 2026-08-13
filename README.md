@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/kapil-0455/DSA/tree/master/0316-remove-duplicate-letters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kapil-0455/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/kapil-0455/DSA/tree/master/0316-remove-duplicate-letters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kapil-0455/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kapil-0455/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kapil-0455/DSA/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kapil-0455/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
